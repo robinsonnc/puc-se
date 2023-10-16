@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506066866936",
+    "project_id": "meu-pedido-87330",
+    "storage_bucket": "meu-pedido-87330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506066866936:android:62f9a925d6d1dcca67a10d",
+        "android_client_info": {
+          "package_name": "com.robinson.meu_pedido"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgVgowr07GbOBwqw6ot_0JMLSUgSqlmiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
